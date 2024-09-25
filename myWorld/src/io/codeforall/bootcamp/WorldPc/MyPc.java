@@ -17,7 +17,7 @@ public class MyPc {
 
     }
 
-public String tellMeYourMemory () {return this.memory;}
+public int tellMeYourMemory () {return this.memory;}
 
 
     public int Calcula(int nr1, int nr2){
