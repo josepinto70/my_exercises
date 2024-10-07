@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f9334cc-77e9-44e3-b673-d3149aeb0367" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Fiat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai/Ai.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai/src/io/codeforall/bootcamp/Ai.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai/src/io/codeforall/bootcamp/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/cars/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/field/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../car-crash-skeleton/src/io/codeforall/bootcamp/field/Position.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2n6gZdl49m0mJyZHdcHTLtQoNqp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f9334cc-77e9-44e3-b673-d3149aeb0367" name="Changes" comment="" />
+      <created>1728299000398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728299000398</updated>
+      <workItem from="1728299001539" duration="6286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

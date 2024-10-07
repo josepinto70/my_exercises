@@ -3,6 +3,7 @@ package io.codeforall.bootcamp;
 import io.codeforall.bootcamp.cars.Car;
 import io.codeforall.bootcamp.cars.CarFactory;
 import io.codeforall.bootcamp.field.Field;
+import io.codeforall.bootcamp.field.Position;
 
 public class Game {
 
@@ -58,6 +59,9 @@ public class Game {
     }
 
     private void moveAllCars() {
+       Position pos = new Position();
+       pos.getCol();
+
 
     }
 
