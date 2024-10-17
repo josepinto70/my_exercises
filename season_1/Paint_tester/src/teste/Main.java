@@ -24,7 +24,7 @@ class GridExample extends JPanel {
     }
 
     private void drawGrid(Graphics g) {
-        g.setColor(Color.BLACK); // Set the color for the grid lines
+        g.setColor(Color.RED); // Set the color for the grid lines
 
         for (int i = 0; i <= rows; i++) {
             int y = i * cellSize;
