@@ -14,7 +14,7 @@ public class Main {
         String result = Arrays.stream(message.split(" ")) //coloca a message no array pelo espaços
                 .filter(word -> !word.equals("garbage")) // filtra apenas as palavras diferentes de garbage
                 .map(String::toUpperCase) // transforma a array em UpperCase
-                .reduce("", (a, b) -> a + " " + b); // a = accumulator e b=element
+                .reduce("", (acc, elem) ->acc + " " + elem); // a = accumulator e b=element
 
 
         System.out.println(result);
