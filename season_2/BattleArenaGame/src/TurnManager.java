@@ -29,7 +29,7 @@ public class TurnManager {
         turnCounter++;
        System.out.println("^^^");
        System.out.println("Turn : " + turnCounter); // linha a mais
-        System.out.println("-------------------------");
+        System.out.println("-------------------------\n§§");
     }
 
     private Hero selectTarget(Hero attacker) {
