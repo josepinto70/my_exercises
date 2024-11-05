@@ -17,6 +17,6 @@ public class Arena {
         while (heroes.size() > 1) {
             turnManager.takeTurn();
         }
-        System.out.println("The hero "+heroes.get(0).getName() + " wins the battle!");
+        System.out.println("The hero " + heroes.get(0).getName() + " wins the battle!");
     }
 }
