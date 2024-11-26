@@ -47,7 +47,11 @@ body {
 /* Styling for the buttons container */
 .buttons-container {
     display: flex;
-    flex-direction: row; /* Stack buttons horizontal/
+    flex-direction: row; 
+    justify-content: center;
+
+    /* Stack buttons horizontal/
+    
     gap: 10px;  /* Space between buttons */
 }
 
@@ -74,13 +78,11 @@ body {
 }
 #btnMargin{
     background-color: orange;
-    
-}
+    }
 
 #btnBorder{
 
     background-color: white;
-   
     border:black 4px solid;
 }
 
